@@ -1,9 +1,9 @@
 import React from 'react'
 
-const sania = () => {
+const Sania = () => {
   return (
     <div>Sania</div>
   )
 }
 
-export default sania
+export default Sania
